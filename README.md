@@ -1,6 +1,6 @@
 # blogmrthierry
 
-![imgdevops](https://github.com/thierryngankoue/blogmonsieurthierry/assets/65724356/99f2ecf5-0026-457e-af48-36307350f7ac)
+![imgdevops](https://github.com/thierryngankoue/blogmrthierry/assets/65724356/3bf9ce73-efc1-4df3-91f5-f270c2eb99e5)
 
 Bienvenue sur mon blog dédié à la culture cloud/DevOps, un espace où j'explore les merveilles et les dernières avancées du monde numérique. Que vous soyez un passionné d'informatique, un amateur curieux ou simplement quelqu'un cherchant des informations utiles, vous êtes au bon endroit.
 
